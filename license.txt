@@ -1,0 +1,11 @@
+Model Information:
+* title:	Export Rus
+* source:	https://sketchfab.com/3d-models/export-rus-0ae93fbb010846caa3af5fbbe66fc145
+* author:	augmented.vr (https://sketchfab.com/augmented.vr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Export Rus" (https://sketchfab.com/3d-models/export-rus-0ae93fbb010846caa3af5fbbe66fc145) by augmented.vr (https://sketchfab.com/augmented.vr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
